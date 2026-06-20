@@ -1,0 +1,173 @@
+I have pnl data of various trading algorithms from last year Jun 2025. I want you to go through the json data for each individual algo, you have to calculate following statistics for me on the data. I know although the json data contains the following information, but I want you to calculate and match it. Present the data in excel, flag any -ve points in red and +ve points in green.
+
+
+
+Individul Algos:
+
+
+
+
+
+Curvature Credit Spread Overnight (Credit Spread)
+
+
+
+Damper Credit Spread (Credit Spread)
+
+
+
+Zen Credit Spread Overnight (Credit Spread)
+
+
+
+Delta-Ripple Credit Spread Overnight (Credit Spread)
+
+
+
+Delta-Rotation Credit Spread Expiry (Credit Spread)
+
+
+
+SkewHunter (Option Buying)
+
+
+
+SkewHunter TSL (Option Buying)
+
+
+
+A. Statistics to calcaulte : 
+
+
+
+
+
+
+
+Cumulative performance basis Max Allocation (incllude 1M, 3M, 6M, 1Y, Max returns in %) - gross gains, CAGR, and XIRR
+
+
+
+Avg Drawdown, Max DrawDown
+
+
+
+Risk: Reward, Success Ratio, Avg Profit in Trade, Avg Loss in Trade
+
+
+
+Avg Time to Recovery, Max Time to Recovery
+
+
+
+.....................................
+
+
+
+B. Calculate the following statistics
+
+
+
+
+
+Find the percentage success % of each day for each algo based on the profit, avg and max profit, avg and max loss and tell which is the best day. (add in the same excel sheet).
+
+
+
+Find out the Repeat the statistics with Wednesday trades excluded (assume no trade was taken, hence 0 profit or loss)
+
+.....................................
+
+
+
+After you are done with all individual algorithm analaysis, combine the following algos and calculate the similar statistics (A and B) as above for the combination of algos below. Assume in the combination all credit algos have same amount of 3.2 Lakh used and if option buying algo will be used, it will be used with 1Lkah capital.
+
+
+
+Combination of algos:
+
+
+
+Combination 1 -
+
+
+
+
+
+Curvature Credit Spread Overnight
+
+
+
+Damper Credit Spread
+
+
+
+Zen Credit Spread Overnight
+
+
+
+Delta-Ripple Credit Spread Overnight
+
+
+
+Delta-Rotation Credit Spread Expiry
+
+
+
+Combination 2 -
+
+
+
+
+
+Curvature Credit Spread Overnight
+
+
+
+Damper Credit Spread
+
+
+
+Zen Credit Spread Overnight
+
+
+
+Delta-Ripple Credit Spread Overnight
+
+
+
+Delta-Rotation Credit Spread Expiry
+
+
+
+Combination 3 -
+
+
+
+
+
+Curvature Credit Spread Overnight
+
+
+
+Damper Credit Spread
+
+
+
+Zen Credit Spread Overnight
+
+
+
+Delta-Ripple Credit Spread Overnight
+
+
+
+Delta-Rotation Credit Spread Expiry
+
+
+
+SkewHunter TSL
+
+
+
+Tell which combination is most profitable as per stats and drawdown combination. Add the combination data in the new sheet of same excel. Provide the excel for downloading.
